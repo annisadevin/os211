@@ -27,7 +27,7 @@
 }
 
 .container a {
-  color: #D0BABD;
+  color: #a0a0a0;
 }
 
 .container a:hover {
@@ -40,7 +40,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #D0BABD;
+  background:       #808080;
   height:           130px;
   width:            100%;
   padding-top:      10px;
@@ -51,7 +51,7 @@
 }
 
 .left {
-  width:            130px;
+  width:            150px;
 }
 
 .right1 {
@@ -128,8 +128,8 @@
 }
 
 .navbar ul li a:hover {
-  background:       blue;
-  color:            #CCCCCC;
+  background:       #D0BABD;
+  color:            #D0BABD;
   font-size:        1em;
   font-weight:      bold;
 }
