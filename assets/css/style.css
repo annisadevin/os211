@@ -27,7 +27,7 @@
 }
 
 .container a {
-  color: #D0BABD;
+  color: #F3D9DD;
 }
 
 .container a:hover {
@@ -40,7 +40,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #D0BABD;
+  background:       #F3D9DD;
   height:           130px;
   width:            100%;
   padding-top:      10px;
@@ -128,7 +128,7 @@
 }
 
 .navbar ul li a:hover {
-  background:       #D0BABD;
+  background:       #F3D9DD;
   color:            #3C4960;
   font-size:        1em;
   font-weight:      bold;
