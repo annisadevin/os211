@@ -23,4 +23,5 @@ ZCZC W01  60 L05 GSGS Related : Bash aliases
 ZCZC W01  30 L15 Assignment #5 : Git and Github
 ZCZC W01  20 L16 Assignment #6 : Update mylog.txt using vi
 ZCZC W01 180 L17 Assignment #7 : GSGS Markdown, ATM, create Top 10 List
-ZCZC W01  60 L17 Assignment #8 : Try some more CLI Commands
+ZCZC W01  60 L18 Assignment #8 : Try some more CLI Commands
+ZCZC W01  60 L19 Assignment #9 : Read OSC10 Chapter 1,2,18
