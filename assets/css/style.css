@@ -27,7 +27,7 @@
 }
 
 .container a {
-  color: #a0a0a0;
+  color: #D0BABD;
 }
 
 .container a:hover {
@@ -51,7 +51,7 @@
 }
 
 .left {
-  width:            150px;
+  width:            130px;
 }
 
 .right1 {
@@ -129,7 +129,7 @@
 
 .navbar ul li a:hover {
   background:       #D0BABD;
-  color:            #D0BABD;
+  color:            #3C4960;
   font-size:        1em;
   font-weight:      bold;
 }
