@@ -20,6 +20,7 @@ ZCZC W01  30 L12 Assignment #2 : ATM Way, GSGS, and Read
 ZCZC W01  37 L23 Discord : Pop Quiz
 ZCZC W01 115 L13 Assignment #3 
 ZCZC W01  60 L05 GSGS Related : Bash aliases
+ZCZC W01  36 L14 Assignment #4 : Guest username and .bash_aliases
 ZCZC W01  30 L15 Assignment #5 : Git and Github
 ZCZC W01  20 L16 Assignment #6 : Update mylog.txt using vi
 ZCZC W01 180 L17 Assignment #7 : GSGS Markdown, ATM, create Top 10 List
