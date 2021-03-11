@@ -30,3 +30,7 @@ ZCZC W01  60 L19 Assignment #9 : Read OSC10 Chapter 1,2,18
 ZCZC W02 100 L02 ZOOM : Selasa, 9 Maret 2021
 ZCZC W02  25 L01 SCELE : Pop Quiz
 ZCZC W02  55 L11 Assignment #1 : Read OSC10 Chapter 16,17
+ZCZC W02  35 L05 GSGS Related
+ZCZC W02  20 L13 Assignment #3 : Generate GnuPG Key Pair
+ZCZC W02  15 L14 Assignment #4 : Import OS Public Key
+ZCZC W02  15 L15 Assignment #5 : Export My Public Key
