@@ -34,4 +34,6 @@ ZCZC W02  15 L14 Assignment #4 : Import OS Public Key
 ZCZC W02  15 L15 Assignment #5 : Export My Public Key
 ZCZC W02  10 L18 Assignment #8 : Copy Bash Script
 ZCZC W02   5 L19 Assignment #9 : Update mylog.txt
-ZCZC W02   5 L20 Assignment #10 : Make and sign SHA256SUM
+ZCZC W02   5 L20 Assignment #20 : Make and sign SHA256SUM
+ZCZC W02  20 L16 Assignment #6 : Visit and pick 3 out of 10 next neighbors
+ZCZC W02 300 L17 Assignment #7 : GSGS and make top 10 list
