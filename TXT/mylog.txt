@@ -38,3 +38,15 @@ ZCZC W02   5 L20 Assignment #20 : Make and sign SHA256SUM
 ZCZC W02  20 L16 Assignment #6 : Visit and pick 3 out of 10 next neighbors
 ZCZC W02 300 L17 Assignment #7 : GSGS and make top 10 list
 ZCZC W02  45 L12 Assignment #2 : Try Demo Week 2
+ZCZC W03 100 L02 ZOOM : Kamis, 18 Maret 2020
+ZCZC W03  30 Scele : Pop Quiz
+ZCZC W03  70 L11 Assignment #1 : Read OSC10 chapter 13, 14, 15
+ZCZC W03  20 L12 Assignment #2 : Try Demos Week 03
+ZCZC W03   5 L13 Assignment #3 : Check bash aliases
+ZCZC W03  20 L14 Assignment #4 : Visit and pick 3 out of 10 next neighbors
+ZCZC W03 210 L15 Assignment #5 : GSGS and make top 10 list
+ZCZC W03   5 L16 Assignment #6 : Update mylog.txt
+ZCZC W03  90 L17 Assignment #7 : tarball
+ZCZC W03  30 L18 Assignment #8 : Update bash script
+ZCZC W03   7 L19 Assignment #9 : Make and sign SHA256SUM 
+ZCZC W03  30 L23 Discord : Pop QUiz
