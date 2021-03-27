@@ -50,6 +50,8 @@ ZCZC W03  90 L17 Assignment #7 : tarball
 ZCZC W03  30 L18 Assignment #8 : Update bash script
 ZCZC W03   7 L19 Assignment #9 : Make and sign SHA256SUM 
 ZCZC W03  30 L23 Discord : Pop QUiz
+ZCZC W04  10 L01 Scele : Pop Quiz
+ZCZC W04 100 L02 ZOOM : Kamis, 25 Maret 2021
 ZCZC W04  50 L11 Assignment #1 : Read OSC10 chapter 9
 ZCZC W04  70 L12 Assignment #2 : Try Demos Week 04
 ZCZC W04  18 L13 Assignment #3 : Visit and pick 3 out of 10 next neighbors
