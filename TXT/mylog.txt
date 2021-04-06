@@ -65,6 +65,6 @@ ZCZC W05 100 L02 ZOOM : Kamis, 1 Maret 2021
 ZCZC W05  55 L11 Assignment #1 : Read OSC10 chapter 10
 ZCZC W05  20 L12 Assignment #2 : Visit and pick 3 out of 10 next neighbors
 ZCZC W05 180 L13 Assignment #3 : GSGS and make top 10 list
-ZCZC W05 100 L14 Assignment #4 : tarball and screenshot
+ZCZC W05 100 L14 Assignment #4 : tarball and screenshot banner RAM 
 ZCZC W05   3 L15 Assignment #5 : Update mylog.txt
 ZCZC W05   3 L16 Assignment #6 : Make and sign SHA256SUM
