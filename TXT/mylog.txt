@@ -76,3 +76,11 @@ ZCZC W06 180 L13 Assignment #3 : GSGS and make top 10 list
 ZCZC W06  90 L14 Assignment #4 : tarball
 ZCZC W06   5 L15 Assignment #5 : Update mylog.txt
 ZCZC W06   3 L16 Assignment #6 : Make and sign SHA256SUM
+ZCZC W07  30 L01 Scele : Pop Quiz
+ZCZC W07 100 L02 ZOOM : Selasa, 27 April 2021
+ZCZC W07 150 L11 Assignment #1 : Read OSC10 chapter 6,7, dan 8
+ZCZC W07  30 L12 Assignment #2 : Visit and pick 3 out of 10 neighbors
+ZCZC W07 210 L13 Assignment #3 : GSGS and make top 10 list
+ZCZC W07 120 L14 Assignment #4 : tarball
+ZCZC W07   5 L15 Assignment #5 : Update mylog.txt
+ZCZC W07   5 L16 Assignment #6 : Make and sign SHA256SUM
